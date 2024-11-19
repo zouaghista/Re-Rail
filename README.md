@@ -16,9 +16,9 @@ Re-Rail is a cutting-edge predictive maintenance system designed to ensure the s
 
 
 ## 2. Centralized Processing:
-- The images and location data are sent to a central server.
+- The images and location data are sent to a central server(asp.net).
 - An AI-powered model(YOLO V10) analyzes the images to detect defects like cracks or wear.
-- send all this information to a clicable map-based UI
+- send all this information to a clicable map-based UI(angular).
   
 ![image](https://github.com/user-attachments/assets/e3693c2e-914b-4dbb-9e21-6bb160810c29)
 
