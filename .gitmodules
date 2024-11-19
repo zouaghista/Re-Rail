@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/zouaghista/Re-Rail-BackEnd.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/zouaghista/Re-Rail-Front.git
